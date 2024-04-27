@@ -13,4 +13,6 @@ pinned: false
 ---
 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+🧿Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
+🧿Huggingface space : https://huggingface.co/spaces/prithivMLmods/StrangerZone-AI-ChatBot
+🪄The Chatbot 'StrangerAI' based on the models: Mistral LLM - 7B & 7B Instruct V0.1 .
