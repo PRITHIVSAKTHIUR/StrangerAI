@@ -22,7 +22,7 @@ pinned: false
 
 ## 🔮The Prompt Give to the AI Model 
 
-![alt text](assets/sc1.png)
+![alt text](assets/cx1.png)
 
 
 .
