@@ -10,27 +10,21 @@ app_file: app.py
 pinned: false
 ---
 
-## MODEL: BETELGEUSE BERT BASED UNCASED🔣
-
-![alt text](assets/BERT.png)
-
-⬇️Download the Model Form : https://huggingface.co/prithivMLmods/Betelgeuse-bert-base-uncased
 
 🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
 
-🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/BERT-UNCASED
+🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/StrangerAI-Thunder-ChatBot
 
-🚀The GitHub Model Workspace : git clone https://huggingface.co/spaces/prithivMLmods/BERT-UNCASED
+🚀The GitHub Model Workspace : git clone https://huggingface.co/spaces/prithivMLmods/StrangerAI-Thunder-ChatBot
+
 
 ℹ️Generated Result in Huggingface Spaces:
 
-## 🔮The text input to chunk
+## 🔮The Prompt Give to the AI Model 
 
 ![alt text](assets/sc1.png)
 
-## 🪶Bert Classified Result Uncased 
 
-![alt text](assets/sc2.png)
 .
 
 .
