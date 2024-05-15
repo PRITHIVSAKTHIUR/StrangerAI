@@ -10,19 +10,27 @@ app_file: app.py
 pinned: false
 ---
 
+## MODEL: BETELGEUSE BERT BASED UNCASED🔣
+
+![alt text](assets/BERT.png)
+
+⬇️Download the Model Form : https://huggingface.co/prithivMLmods/Betelgeuse-bert-base-uncased
 
 🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
 
-🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/StrangerZone-AI-ChatBot
+🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/BERT-UNCASED
 
-🚀The Chatbot 'StrangerAI' based on the models: Mistral LLM - 7B & 7B Instruct V0.1 .
+🚀The GitHub Model Workspace : git clone https://huggingface.co/spaces/prithivMLmods/BERT-UNCASED
 
 ℹ️Generated Result in Huggingface Spaces:
 
-🔮Prompt : " Write the Code for Snake & Ladder Game Code in pygame "
+## 🔮The text input to chunk
 
-![alt text](assets/cx1.png)
+![alt text](assets/sc1.png)
 
+## 🪶Bert Classified Result Uncased 
+
+![alt text](assets/sc2.png)
 .
 
 .
@@ -31,4 +39,4 @@ pinned: false
 
 .
 
-## 🫙Only Gradio : https://prithivmlmods-strangerai-thunder-chatbot.hf.space/
+
