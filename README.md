@@ -21,7 +21,7 @@ pinned: false
 
 ℹ️Generated Result in Huggingface Spaces:
 
-## 🔮The Prompt Give to the AI Model 
+## 🔮The Sample Interface with Chat Instruct : 
 
 ![alt text](assets/cx1.png)
 
